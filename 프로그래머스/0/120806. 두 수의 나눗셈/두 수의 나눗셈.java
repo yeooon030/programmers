@@ -3,4 +3,6 @@ class Solution {
         double num = (double)num1 / num2 * 1000;
         return (int)num;
     }
+    
+    //dd
 }
